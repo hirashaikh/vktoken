@@ -16,7 +16,8 @@
 </head>
 <div class="panel-heading"></div>
 <body>
-<strong><center><marquee behavior="alternate"><script language="JavaScript" src="vk.js"></script></font></marquee></center></strong>
+<strong><center><div style="font-family: 'Philosopher', sans-serif;
+font-size: 30pt"><marquee behavior="alternate"><script language="JavaScript" src="vk.js"></script></font></marquee></center></strong></div>
  <hr>
  <div id="content">
  <center>
